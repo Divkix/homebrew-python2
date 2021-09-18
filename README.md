@@ -3,9 +3,11 @@
 ### Installation
 
 Add the tap to homebrew:
-`brew tap divkix/python2`
+
+`brew tap divkix/homebrew-python2`
 
 Install:
+
 `brew install python@2`
 
 Because the binary bottles are no longer hosted by Homebrew, the formula will build from source.
